@@ -164,6 +164,11 @@ A comprehensive multi-seller grocery marketplace platform built with PHP, MySQL,
 -delivery tracking system
 
   ![image_alt](https://github.com/Smartswagg/Grocery-Groco-website/blob/2947dc463d06f8c16c5f79dc996ea711e646d085/IMAGES/delivery%20tracking%20system.jpg)
+
+
+-seller panel dashboard
+
+  ![image_alt](https://github.com/Smartswagg/Grocery-Groco-website/blob/536ea73cb4f5c81b12a4dffe93bc0fa6d43f08a4/IMAGES/seller%20panel%20dashboard.png)
    
 4. **Session Issues**
    - Clear browser cookies
