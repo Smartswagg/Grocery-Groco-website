@@ -152,6 +152,7 @@ A comprehensive multi-seller grocery marketplace platform built with PHP, MySQL,
 
                                                  
 -admin page dashboard
+  
   ![image_alt](https://github.com/Smartswagg/Grocery-Groco-website/blob/4d579569a6dc392586c864cbc412a34b6423ae73/IMAGES/admin%20page%20dashboard.png)
    
 4. **Session Issues**
